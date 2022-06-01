@@ -4,9 +4,11 @@ Aplikasi untuk menghitung Body Mass Index atau Indeks Massa Tubuh yang dapat men
 
 ## Screenshots
 
-![App Screenshot](https://raw.githubusercontent.com/MrFluxy/BMI-Calculator/main/Screenshot_20220413-012441.png?token=GHSAT0AAAAAABST5KE3UN7CB5ACFTXOV6WEYUXDQAA)
+![App Screenshot](https://raw.githubusercontent.com/aafrzl/BMI-Calculator/main/Screenshot_20220413-012432.png?token=GHSAT0AAAAAABST5KE3QRSCALAO2XRRB6VUYUXDXMA)
 
-![App Screenshot](https://raw.githubusercontent.com/MrFluxy/BMI-Calculator/main/Screenshot_20220413-012448.png?token=GHSAT0AAAAAABST5KE3HFYKW4DPTUZ3DYHCYUXDPQA)
+![App Screenshot](https://raw.githubusercontent.com/aafrzl/BMI-Calculator/main/Screenshot_20220413-012448.png?token=GHSAT0AAAAAABST5KE2UW2EYLWULQ5VTPEMYUXDYGA)
+
+![App Screenshot](https://raw.githubusercontent.com/aafrzl/BMI-Calculator/main/Screenshot_20220413-012441.png?token=GHSAT0AAAAAABST5KE3MWLECTQJ3OLY3DWOYUXDYOQ)
 ## Demo
 
 Link demo aplikasi
